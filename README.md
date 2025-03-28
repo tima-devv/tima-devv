@@ -7,4 +7,4 @@
 - 💗 I love cats, books, design and languages
 
 
-#### 💬 Let's **connect** on [Linkedin](https://www.linkedin.com/in/tech-fatima-diallo/)
+#### 💬 Let's **connect** on [Linkedin](https://www.linkedin.com/in/tima-devv/)
