@@ -2,8 +2,8 @@
 
 #### 'bout me👇🏾
 - 🐢 CS Student at [Eötvös Loránd University](https://www.elte.hu/)
-- ☁️ AI & Web Dev Enthusiast 
-- 💻 Tech I use: `.cpp`, `.js`, `.html`, `.css`, `.py`
+- ☁️ Embedded Systems, AI & Web Dev Enthusiast 
+- 💻 Tech I use: `.cpp`, `.js`, `.html`, `.css`, `.py`, `.hs`, `.c`, `.java`
 - 🏵️ I enjoy **learning** and **creating** fun stuff!
 - 💗 I love cats, books, design and languages
 
